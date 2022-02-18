@@ -10,6 +10,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
+
 public class Vista extends JFrame {
 
 	private JPanel panelR, panelB;

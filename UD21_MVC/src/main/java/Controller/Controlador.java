@@ -9,6 +9,7 @@ import Modelo.Modelo;
 import Vista.Vista;
 
 public class Controlador{
+	
 	private Modelo modelo;
 	private Vista vista;
 	private String query;

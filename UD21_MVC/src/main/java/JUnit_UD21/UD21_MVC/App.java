@@ -9,6 +9,7 @@ import Vista.Vista;
  * Hello world!
  *
  */
+
 public class App {
 	public static void main(String[] args) {
 		SQL sql = new SQL();
